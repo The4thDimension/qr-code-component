@@ -63,7 +63,7 @@ I'd like to pick up the next project with more hover styles and responsive desig
 
 ## Author
 
-- GitHub - [he4thDimension](https://github.com/The4thDimension)
+- GitHub - [The4thDimension](https://github.com/The4thDimension)
 - Frontend Mentor - [@The4thDimension](https://www.frontendmentor.io/profile/The4thDimension)
 - LinkedIn - [Mahesh P Iyer](https://www.linkedin.com/in/pmaheshiyer/)
 
